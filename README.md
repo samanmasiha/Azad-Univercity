@@ -1,2 +1,2 @@
-# Azad-Univercity
+# Azad-University
 I Love Linux
